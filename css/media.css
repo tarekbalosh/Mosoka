@@ -1,0 +1,180 @@
+/*krem*/
+@media(width:280px){
+    .product1 {
+        background-color: #eee;
+        width: 100px;
+        height: 100px;
+    }
+    .motr i {
+        color: gray;
+        border-bottom: 2px solid gray;
+        margin-bottom: 20px;
+        margin-left:70px
+    }
+}
+@media(max-width:768px) {
+
+
+
+    .tt {
+        height: 320px
+    }
+
+    .kr {
+        padding-bottom: 90px;
+        text-align: center
+    }
+
+    .col-md-3 .km {
+        text-decoration: none;
+        color: black;
+        text-indent: -30px;
+        font-size: 20px;
+    }
+
+    .linemaza {
+        margin-top: 20px;
+        right: 40px;
+        position: absolute;
+        font-size: 24px;
+    }
+    /*mohamad*/
+    .dolar {
+        margin-left: 100px;
+        font-size: 20px;
+    }
+
+    .mphone {
+        position: relative;
+        left: 45px;
+    }
+
+    .mprice {
+        position: relative;
+        top: -24px;
+        left: 30px;
+    }
+    /*setting*/
+    .tala {
+        margin-left: 0px;
+        font-size: 20px;
+        color: gray;
+    }
+
+    @media(width:768px) {
+
+
+
+
+        .kr {
+            padding-bottom: 60px;
+            margin-left: 50px
+        }
+        /*orders new*/
+        .math {
+            color: gray;
+            font-size: 25px
+        }
+    }
+
+    @media(width:375px) {
+
+
+        .motr i {
+            color: gray;
+            border-bottom: 2px solid gray;
+            margin-bottom: 20px;
+            margin-left: 90px
+        }
+    }
+
+    @media(max-width:414px) {
+
+
+        .motr i {
+            color: gray;
+            border-bottom: 2px solid gray;
+            margin-bottom: 20px;
+            margin-left: 90px
+        }
+    }
+
+    @media(width:320px) {
+        .product1 {
+            background-color: #eee;
+            width: 100px;
+            height: 100px;
+        }
+    }
+    /*mohamd*/
+    @media(max-width:768px) {
+        .mphone {
+            position: relative;
+            left: 20px;
+        }
+
+        .mprice {
+            margin-left: 30px
+        }
+
+        .mpart2 {
+            font-size: 15px;
+            color: gray
+        }
+        /*orders new*/
+        .math {
+            color: gray;
+            font-size: 20px
+        }
+    }
+
+    @media(width:280px) {
+        .mpart2 {
+            font-size: 12px;
+            color: gray
+        }
+
+        .ordees {
+            font-size: 23px;
+            color: gray
+        }
+        /*orders new*/
+        .math {
+            color: gray;
+            font-size: 15px;
+        }
+        .pleft{
+            position:relative;
+            top:-30px;
+            width:120px;
+            right:12px;
+        }
+        .rwan span {
+            font-size: 5px;
+            position: absolute;
+            top: 7px;
+            right: 190px
+        }
+        /*new request*/
+        .rwan p {
+            right: 9px;
+            position: relative;
+        }
+
+        .sendimg {
+            float: right;
+            width: 30px;
+            margin-right: 0px;
+            margin-top: 10px
+        }
+       
+    }
+}
+
+
+
+
+
+
+
+
