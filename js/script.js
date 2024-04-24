@@ -2,7 +2,7 @@
 $(".product1 , img").fadeIn(1500);
 
 
-$(".down i  , .downorders i").click(function () {
+$(".downorders  i  , .downorders i").click(function () {
     $(".down input , .search ,.downorders .search").fadeToggle();
 
 });
