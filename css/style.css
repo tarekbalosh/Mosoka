@@ -117,7 +117,7 @@
     border-radius: 50px;
     display: inline-block;
     text-indent: 20px;
-    direction: ltr;
+    direction: ltr !important;
 }
 
 .signup, .formup {
