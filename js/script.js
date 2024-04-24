@@ -3,7 +3,7 @@ $(".product1 , img").fadeIn(1500);
 
 
 $(".down  i  , .downorders i").click(function () {
-    $(".down input , .search ,.downorders .search").fadeToggle();
+    $(".down .search , .search ,.downorders .search").fadeToggle();
 
 });
 function openNav() {
